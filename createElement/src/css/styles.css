@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.list{
+position: center;
+font-size: medium;
+color: #619ad6;
+}
+.header{
+  position: center;
+  font-size: 2rem;
+  background-color: #1d4774;
+}
+.list-element{
+  position: center;
+font-size: medium;
+color: #619ad6;
+}
+.main{
+  position: center;
+}
